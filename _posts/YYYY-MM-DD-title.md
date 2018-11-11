@@ -1,1 +1,1 @@
-title:1YYYY-MM-DD
+title:YYYY-MM-DD
